@@ -1,0 +1,179 @@
+{
+  "products": [
+    {
+      "product_name": "Đồng hồ nam Seiko 5 Quân Đội",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336620/assm/jtezmabl9nb9xhv7d8ft.jpg",
+      "price": "1680000",
+      "quantity": "1000",
+      "desc": "Thương hiệu đồng hồ  Epos Swiss được nhập khẩu nguyên chiếc từ Thụy Sỹ và phân phối độc quyền tại Đăng Quang Watch.",
+      "discount": "1",
+      "cateid": "1",
+      "id": 1
+    },
+    {
+      "product_name": "Đồng hồ nam Tissot T-Classic",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336730/assm/banhqvaed8d9fsd0ql78.jpg",
+      "price": "2100000",
+      "quantity": "1000",
+      "desc": " DIAMOND D là thương hiệu đồng hồ nữ thời trang đến từ Anh Quốc.",
+      "discount": "10",
+      "cateid": "2",
+      "id": 2
+    },
+    {
+      "product_name": "Đồng hồ nam Hamilton Jazzmaste",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336718/assm/iripfu3hfakj6ng2eyp3.jpg",
+      "price": "1900000",
+      "quantity": "1000",
+      "desc": "Thương hiệu đồng hồ  Philippe Auguste được nhập khẩu nguyên chiếc và phân phối độc quyền tại Đăng Quang Watch.",
+      "discount": "10",
+      "cateid": "3",
+      "id": 3
+    },
+    {
+      "product_name": "Đồng hồ nam Orient Automatic",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336783/assm/isbj1j9eyidl5hrklyud.jpg",
+      "price": "17000000",
+      "quantity": "1000",
+      "desc": " Thương hiệu đồng hồ  Epos Swiss được nhập khẩu nguyên chiếc từ Thụy Sỹ và phân phối độc quyền tại Đăng Quang Watch.",
+      "discount": "10",
+      "cateid": "8",
+      "id": 4
+    },
+    {
+      "product_name": "Đồng hồ nam Citizen Automatic",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336816/assm/loh29t9qdet0jxld1wdj.jpg",
+      "price": "24000000",
+      "quantity": "1000",
+      "desc": "Sử dụng máy pin và độ chịu nước là 3ATM hạn chế tiếp xúc với nước.",
+      "discount": "10",
+      "cateid": 3,
+      "id": 5
+    },
+    {
+      "product_name": "Đồng hồ nam Citizen Automatic",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336884/assm/ir3oas5hmmqseks0mfpd.jpg",
+      "price": "4690000",
+      "quantity": "1000",
+      "desc": "Chất liệu vỏ thép không gỉ 316L cao cấp mạ PVD.",
+      "discount": "10",
+      "id": 6
+    },
+    {
+      "product_name": "Đồng hồ nữ Daniel Wellington",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336924/assm/nanqwraazuwootqvteyv.jpg",
+      "price": "1700000",
+      "quantity": "1000",
+      "desc": "Khóa cài giúp bạn dễ dàng đeo lên tay.",
+      "discount": "10",
+      "id": 7
+    },
+    {
+      "product_name": "Đồng hồ nữ Longines Master",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645336945/assm/cetqkrcvy2h4yi1s7h40.jpg",
+      "price": "5200000",
+      "quantity": "950",
+      "desc": "Giấy chứng nhận Đăng Quang Watch là nhà phân phối độc quyền của thương hiệu JACQUES LEMANS tại Việt Nam.",
+      "discount": "10",
+      "id": 8
+    },
+    {
+      "product_name": "Đồng hồ nam Citizen Automatic",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645083952/assm/vuyn2dfoyfd6wt39vgxs.jpg",
+      "price": "1440000",
+      "quantity": "12",
+      "desc": "  đồng hồ đẳng cấp",
+      "discount": "9",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "username": "caotruong1",
+      "password": "$2a$10$IyfxTOlh3HXPBDJYbPxsieVU1vcv2s5fRpwfN8nOZUk77L3XVPv4O",
+      "email": "caotruong111@gmail.com",
+      "role": "0",
+      "id": 1
+    },
+    {
+      "username": "caotruong",
+      "password": "$2a$10$as2IZ9uPMQ42spOdvky9vetYfnOpXJmHVQAAKqfR2YOID56t7LdTG",
+      "email": "caotruong222@gmail.com",
+      "role": "0",
+      "id": 12
+    },
+    {
+      "email": "caotruong333@gmail.com",
+      "password": "$2a$10$WJxJnJy.7LJOBr.G5nFC4.fj3sjTVWe2GBLaxIIj9gQlBQuaZfAHu",
+      "username": "caotruong3",
+      "role": "1",
+      "id": 21
+    },
+    {
+      "email": "caotruong444@gmail.com",
+      "password": "$2a$10$njAqSnisQnVpC78mINPHeuaUgHTFg148kDboSZN6EK2.duXkMGAmO",
+      "username": "caotruong4",
+      "id": 22
+    },
+    {
+      "email": "sadasdsadsa@gamil.com",
+      "password": "$2a$10$7ry0kYed3r6MROcYXOAfg.vxQudAgMIGUCnEWT9UciPKJejvlacge",
+      "username": "caotruongd",
+      "id": 23
+    },
+    {
+      "email": "dasdasdasdasd@gmail.com",
+      "password": "$2a$10$dS6/UIZynj7cWrfAEEhBVOLR3fZPcVUftVFZ0b5FvHd20mR2RpFQC",
+      "username": "dinhdat2808",
+      "id": 24
+    }
+  ],
+  "post": [
+    {
+      "title": "ĐỒNG HỒ \"MÃNH HỔ\" PHIÊN BẢN GIỚI HẠN - CHÀO ĐÓN NHÂM DẦN",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645344324/assm/wi4pgkiflwzdsajbkjfi.jpg",
+      "content": "Mãnh Hổ được xem là biểu tượng của sức mạnh, quyền uy, sự thăng tiến trong học hành và kinh doanh. Trong dân gian con Hổ còn được coi là linh vật giám hộ hướng Tây, đầy uy lực, linh thiêng và được thờ phụng rất nhiều, bảo vệ cho gia chủ, đảm bảo tiền tài, sức khoẻ cho các thành viên trong gia đình.",
+      "discription": "Nhân dịp đầu năm 2022 Đăng Quang Watch xin gửi lời chúc tốt đẹp nhất tới Quý khách hàng đã tin dùng sản phẩm của Đăng Quang, một năm mới an khang và thịnh vượng",
+      "id": 1
+    },
+    {
+      "title": "BỘ SƯU TẬP ĐỒNG HỒ DIAMOND D HOT NHẤT MÙA THU 2021",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645343653/assm/dijnkmpts1jbqi3pbgxp.jpg",
+      "content": "Công nương Diana là \"biểu tượng thời trang\" của Anh và thế giới, đồng thời là nguồn cảm hứng cho vẻ đẹp, sự phá cách trong thời trang lúc bấy giờ. Diamond D ra đời và phát triển dựa trên hình tượng đó: phong cách, thời trang và đẳng cấp. Đến với Bộ sưu tập Thu 2021, Diamond D vẫn giữ tinh thần nguyên bản đó và tạo nên khác biệt nhờ nhấn nhá thêm nhiều chi tiết mới lạ.\n\n \n\n\n\n \n\nCác thiết kế được trú trọng vào mặt số tròn, đính đá nhiều lớp ở vòng bezel và dây da trắng. Dưới dịp thu mát mẻ, phái nữ có thể kết hợp đồng hồ với loạt váy áo nữ tính, sang trọng.\n\n \n\n\n\n \n\nMột trong những thiết kế nổi bật của Diamond D với cọc số La Mã, đính đá và dây kim loại thiết kế mạ cao cấp PVD. Điểm mạnh của thương hiệu nhiều năm nay là sự chế tác tỉ mỉ, kỳ công.\n\n \n\n\n\n \n\nMẫu dây da gam đỏ nổi bật kết hợp những viên đá Swarovski làm nổi bật cổ tay phái nữ. Đại diện hãng đồng hồ cho biết: \"Là thương hiệu dành riêng cho phái đẹp, Diamond D mong muốn đem đến vẻ đẹp độc đáo, giúp họ luôn nổi bật ở bất kỳ đâu\".\n\n \n\n\n\n \n\nĐồng hồ Diamond D còn được ví như trang sức không thể thiếu vì vẻ ngoài bắt mắt, chú trọng từng chi tiết nhỏ. Hầu hết sản phẩm sử dụng Swarovski - đá pha lê sáng lấp lánh nhằm gia tăng nét sang trọng và quý giá\n\n \n\n\n\n \n\nBộ sưu tập ứng dụng bộ máy quarzt của Miyota từ Nhật Bản, có đặc tính bền bỉ và chính xác, mặt kính sapphire chống xước cao...\n\n \n\n\n\n \n\nChính sách bảo hành rất tốt, lên tới 10 năm về máy và đá, thay pin miễn phí 10 năm.\n\nVới phân khúc giá từ trên hai đến hơn tám triệu đồng, Diamond D có thể tiếp cận nhiều đối tượng tín đồ thời trang.\n\nTín đồ thời trang có thể mua đồng hồ Diamond D tại hai chuỗi showroom Đăng Quang Watch và Siêu Thị Đồng Hồ. Diamond D - Beauty Is Forever hứa hẹn mang lại cho giới mộ điệu những sản phẩm mới và ấn tượng nhất.\n\nLiên hệ hotline 098 668 1189 - 098 264 8640 để xem chi tiết khuyến mãi, thông tin sản phẩm.\n\n\nBài viết khác\n\nTHÁNG 7 RỰC RỠ - SALE HẾT CỠ\nĐại tiệc sale mừng sinh nhật Đăng Quang Watch, cơ hội duy nhất mua đồng hồ chính hãng giảm 40%\nGen Z đón đầu xu hướng với đồng hồ chính hãng, kính mắt thời trang cực chất\nNhững mẫu đồng hồ nam cực chất với máy cơ, kính sapphire đang được giảm 40% mở bán duy nhất trong ngày.\nCách bảo dưỡng và làm mới dây da đồng hồ hiệu quả\nNhanh tay sắm ngay đồng hồ chính hãng giá chỉ từ 1 triệu, bảo hành quốc tế lại được giảm ngay 40% cực hời.\nHỎI ĐÁP VỀ ĐỒNG HỒ\n1\nTop 10 câu hỏi thường gặp về đồng hồ đeo tay\n2\nHỏi đáp về đồng hồ: Mặt kính đồng hồ đeo tay có bao nhiêu loại?\nTIN TỨC NỔI BẬT\ntin tuc\nVALENTINE – TRAO GỬI YÊU THƯƠNG CÙNG ĐĂNG QUANG WATCH\ntin tuc\nĐỒNG HỒ \"MÃNH HỔ\" PHIÊN BẢN GIỚI HẠN - CHÀO ĐÓN NHÂM DẦN\ntin tuc\nThư chúc mừng Giáng sinh và Năm mới 2022\ntin tuc\nPhillipe Auguste – Đẳng ",
+      "discription": "Bộ sưu tập Thu 2021 của thương hiệu đồng hồ nước Anh Diamond D tôn vẻ sang trọng, quý phái của nữ giới.",
+      "id": 2
+    },
+    {
+      "title": "Đại tiệc sale mừng sinh nhật Đăng Quang Watch, cơ hội duy nhất mua đồng hồ chính hãng giảm 40%",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645343710/assm/xjgbulkjizulufnd1xer.jpg",
+      "content": "Trải qua 12 năm hoạt động và phát triển, với sự đồng hành, tin tưởng của khách hàng Đăng Quang Watch ngày một phát triển mạnh mẽ, vững vàng hơn. Với hệ thống quy mô 100 showroom bán lẻ đồng hồ chính hãng lớn mạnh bậc nhất trên thị trường và chinh phục khách hàng bởi hàng ngàn mẫu đồng hồ chính hãng mang phong cách sang trọng, đẳng cấp cùng dịch vụ hậu mãi, chăm sóc khách hàng tận tâm.",
+      "discription": "Nhân dịp kỷ niệm 12 năm thành lập thương hiệu, Đăng Quang Watch khuyến mại lớn nhất từ trước tới nay với ưu đãi giảm giá cực sốc đến 40% và hàng triệu phần quà tặng ý nghĩa thay cho lời tri ân sâu sắc",
+      "id": 3
+    },
+    {
+      "title": "Gen Z đón đầu xu hướng với đồng hồ chính hãng, kính mắt thời trang cực chất",
+      "image": "http://res.cloudinary.com/dmlv9tzte/image/upload/v1645343759/assm/tpudkaen7chzeqqnonzz.jpg",
+      "content": "Siêu Thị Đồng Hồ là chuỗi showroom đồng hồ, kính mắt chính hãng thuộc Đăng Quang Watch  – Nếu như Đăng Quang Watch là cái tên đình đám chinh phục khách hàng ở phân khúc cao cấp với những mẫu đồng hồ sang trọng và đẳng cấp thì Siêu Thị Đồng Hồ lại chiều lòng các thượng đế trẻ tuổi bằng hàng ngàn mẫu đồng hồ thời thượng, cá tính và phong cách. Siêu Thị Đồng Hồ đồng hành cùng thế hệ Gen Z kiến tạo phong cách và toả sáng với chất riêng độc đáo.\n\n",
+      "discription": "Nếu bạn muốn luôn là người luôn dẫn đầu xu hướng thời trang, phụ kiện nhất định phải “update” ngay và liền địa chỉ mua sắm đồng hồ, kính mắt chính hãng đang gây bão trong cộng đồng giới trẻ hiện nay: Siêu Thị Đồng Hồ",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "cate_name": "Casio",
+      "id": 1
+    },
+    {
+      "cate_name": "Rolex",
+      "id": 2
+    },
+    {
+      "cate_name": "Orient",
+      "id": 3
+    },
+    {
+      "cate_name": "Pianus",
+      "id": 8
+    }
+  ]
+}
